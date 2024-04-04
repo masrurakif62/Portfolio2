@@ -6,7 +6,7 @@ export const Bio = {
       "Programmer",
     ],
     description:
-      "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+      "As a recent graduate with a Bachelor of Science from Wayne State University, I am eager to leverage my academic background and passion for software development. I am seeking opportunities to contribute my enthusiasm, fresh perspective, and dedication to excellence. Below you will find an overview of my skills, previous experience and education, and a list showcasing some of my projects. Feel free to contact if my educational background and skills can enhance the value for your organization!",
     github: "https://github.com/masrurakif62",
     resume:
       "https://drive.google.com/file/d/1J3lcp4g0SHZvEFYqApF_PAqOKh4BjjDT/view?usp=sharing",
