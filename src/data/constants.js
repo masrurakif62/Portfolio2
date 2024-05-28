@@ -9,7 +9,7 @@ export const Bio = {
       "As a recent graduate with a Bachelor of Science from Wayne State University, I am eager to leverage my academic background and passion for software development. I am seeking opportunities to contribute my enthusiasm, fresh perspective, and dedication to excellence. Below you will find an overview of my skills, previous experience and education, and a list showcasing some of my projects. Feel free to contact if my educational background and skills can enhance the value for your organization!",
     github: "https://github.com/masrurakif62",
     resume:
-      "https://drive.google.com/file/d/1J3lcp4g0SHZvEFYqApF_PAqOKh4BjjDT/view?usp=sharing",
+      "https://drive.google.com/file/d/133yh-_G9njspTd8Oyi9XiKgq7HNCSgMQ/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/masrurakif/",
     
   };
@@ -212,7 +212,7 @@ export const Bio = {
       github: "https://github.com/4996wsu/CoBIT-Connect",
     },
     {
-      id: 1,
+      id: 2,
       title: "Health Notification Desktop Application",
       date: "Winter 2022",
       description:
@@ -232,6 +232,21 @@ export const Bio = {
       category: "desktop",
       github: "https://github.com/WSU-4110/Health-Productivity-App",
     },
+    {
+      id: 2,
+      title: "Educational Video Game",
+      date: "Summer 2021",
+      description:
+        "Developed a game using Python during a 48-hour Hackathon that teaches users the common syntax of C++",
+      image:
+        "https://github.com/masrurakif62/EducationalVideoGame/blob/main/Centre.png?raw=true",
+      tags: [
+        "Python",
+        "Visual Studio Code",
+      ],
+      category: "desktop",
+      github: "https://github.com/masrurakif62/EducationalVideoGame",
+    }
   ];
   
   export const TimeLineData = [
